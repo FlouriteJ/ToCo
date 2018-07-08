@@ -25,7 +25,7 @@
 点击鼠标来观看剧情对话。
 
 ### 对战界面 ###
-![image](https://github.com/FlouriteJ/ToCo/blob/master/4.png)
+![image](https://github.com/FlouriteJ/ToCo/blob/master/4.jpg)
 ①-牌堆，下面的数字代表牌堆剩余牌数，你的手牌从这里抽取，每回合抽2张牌。如果牌堆没有牌了，会自动将用过的牌洗成新的牌堆。
 ②-你的人物，上方有生命和护盾的显示部件，人物所站位置与当前距离有关。
 ③-你的手牌，没有上限，但是回合结束时需要弃至2张
